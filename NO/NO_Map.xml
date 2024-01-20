@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+    <name>NO-Map </name>
+    <minZoom>1</minZoom>
+    <maxZoom>20</maxZoom>
+    <tileType>jpg</tileType>
+    <tileUpdate>None</tileUpdate>
+    <url>https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i{$z}!2i{$x}!3i{$y}!4i256!2m3!1e0!2sm!3i677421503!3m17!2ses-419!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmx8cC52Om9uLHMuZTpsLnQuZnxwLnM6MzZ8cC5jOiMwMDAwMDB8cC5sOjQwLHMuZTpsLnQuc3xwLnY6b258cC5jOiMwMDAwMDB8cC5sOjE2LHMuZTpsLml8cC52Om9mZixzLnQ6MXxzLmU6Zy5mfHAuYzojMDAwMDAwfHAubDoyMCxzLnQ6MXxzLmU6Zy5zfHAuYzojMDAwMDAwfHAubDoxN3xwLnc6MS4yLHMudDoxN3xzLmU6bC50LmZ8cC5jOiNlNWMxNjMscy50OjE5fHMuZTpsLnQuZnxwLmM6I2M0YzRjNCxzLnQ6MjB8cy5lOmwudC5mfHAuYzojOTc4NTU2fHAudjpvbixzLnQ6NXxzLmU6Z3xwLmM6IzAwMDAwMHxwLmw6MjAscy50OjJ8cy5lOmd8cC5jOiMwMDAwMDB8cC5sOjIxfHAudjpvbixzLnQ6MzN8cy5lOmd8cC52Om9uLHMudDo0OXxzLmU6Zy5mfHAuYzojOWQ4MjM4fHAubDowLHMudDo0OXxzLmU6Zy5zfHAudjpvZmYscy50OjQ5fHMuZTpsLnQuZnxwLmM6I2ZmZmZmZixzLnQ6NDl8cy5lOmwudC5zfHAudjpvbnxwLmM6IzJjMmMyYyxzLnQ6NTB8cy5lOmd8cC5jOiMwMDAwMDB8cC5sOjE4LHMudDo1MHxzLmU6Zy5mfHAuYzojNTc1NzU3LHMudDo1MHxzLmU6bC50LmZ8cC5jOiNmZmZmZmYscy50OjUwfHMuZTpsLnQuc3xwLmM6IzJjMmMyYyxzLnQ6NTF8cy5lOmd8cC5jOiMwMDAwMDB8cC5sOjE2LHMudDo1MXxzLmU6bC50LmZ8cC5jOiM5OTk5OTkscy50OjR8cy5lOmd8cC5jOiMwMDAwMDB8cC5sOjE5LHMudDoxMDU5fHMuZTpnLmZ8cC5jOiMyNDI0MjQscy50OjEwNTl8cy5lOmcuc3xwLmM6IzQ2NDY0NixzLnQ6NnxzLmU6Z3xwLmM6IzIwMjcyN3xwLmw6MTc!4e0</url>
+    <backgroundColor>#000000</backgroundColor>
+</customMapSource>

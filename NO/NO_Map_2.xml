@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+    <name>NO-Map-2</name>
+    <minZoom>1</minZoom>
+    <maxZoom>20</maxZoom>
+    <tileType>jpg</tileType>
+    <tileUpdate>None</tileUpdate>
+    <url>http://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i{$z}!2i{$x}!3i{$y}!4i256!2m3!1e0!2sm!3i677421383!3m17!2ses-419!3sUS!5e18!12m4!1e68!2m2!1sset!2sRoadmap!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmwudC5mfHAuczozNnxwLmM6IzAwMDAwMHxwLmw6NDAscy5lOmwudC5zfHAudjpvbnxwLmM6IzAwMDAwMHxwLmw6MTYscy5lOmwuaXxwLnY6b2ZmLHMudDoxfHMuZTpnLmZ8cC5jOiMwMDAwMDB8cC5sOjIwLHMudDoxfHMuZTpnLnN8cC5jOiMwMDAwMDB8cC5sOjE3fHAudzoxLjIscy50OjV8cy5lOmd8cC5jOiMwMDAwMDB8cC5sOjIwLHMudDoyfHMuZTpnfHAuYzojMDAwMDAwfHAubDoyMSxzLnQ6NDl8cy5lOmcuZnxwLmM6IzAwMDAwMHxwLmw6MTcscy50OjQ5fHMuZTpnLnN8cC5jOiMwMDAwMDB8cC5sOjI5fHAudzowLjIscy50OjUwfHMuZTpnfHAuYzojMDAwMDAwfHAubDoxOCxzLnQ6NTF8cy5lOmd8cC5jOiMwMDAwMDB8cC5sOjE2LHMudDo0fHMuZTpnfHAuYzojMDAwMDAwfHAubDoxOSxzLnQ6NnxzLmU6Z3xwLmM6IzAwMDAwMHxwLmw6MTc!4e0</url>
+    <backgroundColor>#000000</backgroundColor>
+</customMapSource>

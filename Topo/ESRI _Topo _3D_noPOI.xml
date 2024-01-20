@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+    <name>ESRI Topo 3D no POI</name>
+    <minZoom>1</minZoom>
+    <maxZoom>20</maxZoom>
+    <tileType>jpg</tileType>
+    <tileUpdate>None</tileUpdate>
+    <url>https://services.arcgisonline.com/arcgis/rest/services/Elevation/World_Hillshade/MapServer/tile/{$z}/{$y}/{$x}</url>
+    <backgroundColor>#000000</backgroundColor>
+</customMapSource>
